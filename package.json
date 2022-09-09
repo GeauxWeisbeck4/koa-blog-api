@@ -42,7 +42,7 @@
     "passport-local": "^1.0.0",
     "randexp": "^0.4.9",
     "regenerator-runtime": "^0.13.9",
-    "sharp": "^0.29.1",
+    "sharp": "^0.30.5",
     "shortid": "^2.2.16",
     "slugify": "^1.4.5",
     "string-strip-html": "^6.0.4"
